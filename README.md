@@ -3,7 +3,7 @@
 # Boris-Bikes
 =================
 
-[Task](#Task) | [User Stories](#stories) | [Installation](#Installation) | [Functionality](#Funtionality) |
+[Task](#Task) | [User Stories](#stories) | [Installation](#Installation) | [Functionality](#Funtionality) | [Testing](#Testing)
 
 Technologies: Ruby, RSpec
 
@@ -114,3 +114,11 @@ The system's functionality includes:
 * Garages fix broken bikes.
 * Vans move bikes between docking stations and garages.
 
+## Testing 
+
+Testing was run through RSpec in the terminal 
+
+```
+cd boris-bikes
+rspec
+```
