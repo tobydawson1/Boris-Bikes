@@ -91,7 +91,7 @@ I'd like vans to collect working bikes from garages and distribute them to docki
 
 1. Fork this repository, clone to your local machine then change into the directory:
 ```
-$ git clone https://github.com/davmcgregor/boris-bikes.git 
+$ git clone https://github.com/tobydawson1/boris-bikes.git 
 $ cd boris-bikes
 ```
 2. Load dependencies with bundle:
