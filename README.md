@@ -3,7 +3,7 @@
 # Boris-Bikes
 =================
 
-[Task](#Task) | [User Stories](#stories) | [Installation](#Installation) |
+[Task](#Task) | [User Stories](#stories) | [Installation](#Installation) | [Functionality](#Funtionality) |
 
 Technologies: Ruby, RSpec
 
@@ -86,4 +86,31 @@ As a maintainer of the system,
 So that I can manage broken bikes and not disappoint users,
 I'd like vans to collect working bikes from garages and distribute them to docking stations.
 ```
+
+## Installation
+
+1. Fork this repository, clone to your local machine then change into the directory:
+```
+$ git clone https://github.com/davmcgregor/boris-bikes.git 
+$ cd boris-bikes
+```
+2. Load dependencies with bundle:
+```
+$ gem install bundle
+$ bundle
+```
+3 Run the app in the terminal:
+```
+$ irb
+> require './lib/boris_bikes.rb'
+```
+
+## Funtionality
+
+The system's functionality includes:
+
+* A bike can be docked or relased from a docking station.
+* If a bike is reported broken then that bike cannot be relased from a docking station.
+* Garages fix broken bikes.
+* Vans move bikes between docking stations and garages.
 
