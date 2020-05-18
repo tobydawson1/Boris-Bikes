@@ -2,4 +2,4 @@
 
 # Boris-Bikes
 
-![Boris](screenshots/boris.png)
+![Boris](screenshots/boris.jpg)
