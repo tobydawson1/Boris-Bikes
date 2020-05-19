@@ -122,3 +122,15 @@ Testing was run through RSpec in the terminal
 cd boris-bikes
 rspec
 ```
+
+| Object: | Account | 
+| ------- | ------- | 
+| **Attributes:** |  statement (date, credit, debit, balance), balance |
+
+| **Method:** | PrintStatement |
+
+| **Method:** | PrintBalance |
+
+| **Method:** | Deposit |  
+
+| **Method:** | Withdrawal |  
