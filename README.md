@@ -3,7 +3,7 @@
 # Boris-Bikes
 =================
 
-[Task](#Task) | [User Stories](#stories) | [Installation](#Installation) | [Functionality](#Funtionality) | [Testing](#Testing)
+[Task](#Task) | [User Stories](#stories) | [Installation](#Installation) | [Functionality](#Funtionality) | [Testing](#Testing) | [Methods and Objects](#Methods) |
 
 Technologies: Ruby, RSpec
 
@@ -122,6 +122,8 @@ Testing was run through RSpec in the terminal
 cd boris-bikes
 rspec
 ```
+
+## <a name="Methods">Methods and Objects</a> 
 
 | Object: | Account | 
 | ------- | ------- | 
