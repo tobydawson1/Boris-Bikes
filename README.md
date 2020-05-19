@@ -126,11 +126,7 @@ rspec
 | Object: | Account | 
 | ------- | ------- | 
 | **Attributes:** |  statement (date, credit, debit, balance), balance |
-
 | **Method:** | PrintStatement |
-
 | **Method:** | PrintBalance |
-
 | **Method:** | Deposit |  
-
 | **Method:** | Withdrawal |  
