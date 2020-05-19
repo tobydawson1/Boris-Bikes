@@ -125,10 +125,10 @@ rspec
 
 ## <a name="Methods">Methods and Objects</a> 
 
-| Object: | Account | 
+| Object: | Docking Station | 
 | ------- | ------- | 
-| **Attributes:** |  statement (date, credit, debit, balance), balance |
-| **Method:** | PrintStatement |
-| **Method:** | PrintBalance |
-| **Method:** | Deposit |  
-| **Method:** | Withdrawal |  
+| **Attributes:** |  Storage |
+| **Method:** | release_bike |
+| **Method:** | dock |
+| **Method:** | full? |  
+| **Method:** | empty? |  
