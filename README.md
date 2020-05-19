@@ -132,3 +132,7 @@ rspec
 | **Method:** | dock |
 | **Method:** | full? |  
 | **Method:** | empty? |  
+
+| Object: | Bike| 
+| ------- | ------- | 
+| **Method:** | working? |
